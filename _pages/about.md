@@ -11,3 +11,4 @@ Hello! My name is Xiaoqi, the meaning of it is "a little curious". If you know X
 
 I'm current a last year undergraduate student majoring in Mathematics with Computer Science from [Technion](https://www.technion.ac.il/en/home-2/), China Campus, aka [GTIIT](https://www.gtiit.edu.cn/en/). My research interest includes theoretical computer science, security and numerical analysis.
 
+**I'm actively seeking opportunities to pursue a PhD starting from Fall 2025.**
