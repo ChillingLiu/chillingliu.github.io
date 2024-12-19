@@ -21,14 +21,14 @@ repository               : "chillingliu/chillingliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "xiaoqi.png"
+  name             : "Xiaoqi LIU (刘小奇)"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "China"
+  employer         : "Technion-Israel Institue of Technology"
+  email1           : "xiaoqi.liu@campus.technion.ac.il"
+  email2           : "liu09335@gtiit.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
