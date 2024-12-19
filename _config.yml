@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoqi LIU / Personal Homepage"
+title                    : "Xiaoqi's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoqi LIU"
 description              : &description "personal description"
