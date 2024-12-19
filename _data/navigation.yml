@@ -9,16 +9,13 @@ main:
     url: /publications/
 
   - title: "Research Experience"
-    url: /reserch/
+    url: /talks/
 
   - title: "Teaching Experience"
-    url: /teaching/    
+    url: /teaching/
     
-  - title: "Portfolio & Course Projects"
+  - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Extra-curriculum Activities"
+  - title: "Learship"
     url: /portfolio/
-
-  - title: "CV"
-    url: /cv/
