@@ -24,13 +24,12 @@ author:
   avatar           : "xiaoqi.png"
   name             : "Xiaoqi LIU (刘小奇)"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Technion-Israel Institue of Technology"
   location         : "China"
-  employer         : "Technion"
-  email1           : "xiaoqi.liu@campus.technion.ac.il"
-  email2           : "liu09335@gtiit.edu.cn"
+  email            : "xiaoqi.liu@campus.technion.ac.il"
+  email            : "liu09335@gtiit.edu.cn"
 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   github           : "chillingliu"
 
   linkedin         : # Username
